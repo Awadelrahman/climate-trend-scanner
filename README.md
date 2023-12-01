@@ -1,6 +1,6 @@
-# Climate-TrendScanner
+# Climate Trend Scanner App 
+![Example1 Image](assets/example1.png)
 
-# Climate Trend Scanner Streamlit App
 
 ## Introduction
 This repository contains the Climate Trend Scanner, a Streamlit application developed in Python. It's designed to provide insights into climate trends and innovations.
@@ -50,7 +50,6 @@ streamlit run app\app.py
 On the first run, some additional packages will be installed. After this, the app will be accessible in your web browser at `http://localhost:8501`.
 
 ### Examples:
-![Example1 Image](assets/example1.png)
 ![Example2 Image](assets/example2.png)
 ![Example3 Image](assets/example3.png)
 ![Example4 Image](assets/example4.png)
