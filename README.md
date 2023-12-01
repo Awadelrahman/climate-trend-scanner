@@ -1,4 +1,5 @@
 # Climate Trend Scanner App 
+
 ![Example1 Image](assets/example1.png)
 
 
@@ -31,6 +32,7 @@ Install all the necessary requirements by running:
 
 ### 5. Add .env File
 Create a `.env` file in the root directory and add the following content:
+
 `TRENDSCANNER_ENTITY_EXTRACTION_KEY=[Your Key Here]`
 
 
@@ -49,7 +51,7 @@ Finally, start the Streamlit app by running:
 
 On the first run, some additional packages will be installed. After this, the app will be accessible in your web browser at `http://localhost:8501`.
 
-### Examples:
+### Screen Examples:
 ![Example2 Image](assets/example2.png)
 ![Example3 Image](assets/example3.png)
 ![Example4 Image](assets/example4.png)
